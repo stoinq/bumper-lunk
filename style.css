@@ -1,0 +1,55 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+    
+}
+
+
+h1{
+    font-style: italic; 
+    background-color: white;
+    font-size: 200;
+    border: solid red 4px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+#Work {
+    width: 300px;
+    height: 300px;
+    border: solid 8px black;
+    border-radius: 0 100px 0 100px;
+    background-color: red;
+    color: blanchedalmond;
+}
+#Fastly{
+    width: 300px;
+    height: 300px;
+    border: solid 8px black;
+    border-radius: 100px 0 100px 0;
+    background-color: forestgreen;
+    color: sienna;
+}
+#Drained{
+    width: 300px;
+    height: 300px;
+    border: solid 8px black;
+    border-radius: 100px 0 100px 0;
+    background-color: khaki;
+    color: slategray;
+}
+#Aper{
+    width: 300px;
+    height: 300px;
+    border: solid 8px black;
+    border-radius: 0 100px 0 100px;
+    background-color: cornflowerblue;
+    color: rosybrown;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#dif{
+    color: black;
+}
+
